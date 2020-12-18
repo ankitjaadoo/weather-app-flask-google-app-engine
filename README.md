@@ -1,0 +1,2 @@
+# weather-app-flask-google-app-engine
+This is a small project for implementing Flask framework, APIs, and Google App Engine for beginners. If you want to build web apps in a very short amount of time using Python, then Flask is a fantastic option.  Flask is a small and powerful web framework (also known as “microframework”). It is also very easy to learn and simple to code. Based on my personal experience, it was easy to start as a beginner. Happy Coding!
